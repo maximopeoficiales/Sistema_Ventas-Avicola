@@ -1,0 +1,140 @@
+c:\users\maximo\documents\visual studio 2013\Projects\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.exe.config
+c:\users\maximo\documents\visual studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.login.resources
+c:\users\maximo\documents\visual studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Resources.resources
+c:\users\maximo\documents\visual studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.vbproj.GenerateResource.Cache
+c:\users\maximo\documents\visual studio 2013\Projects\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.exe
+c:\users\maximo\documents\visual studio 2013\Projects\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.pdb
+c:\users\maximo\documents\visual studio 2013\Projects\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.xml
+c:\users\maximo\documents\visual studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.exe
+c:\users\maximo\documents\visual studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.xml
+c:\users\maximo\documents\visual studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.pdb
+C:\Users\Maximo\Documents\Visual Studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.AdministrarClientes.resources
+C:\Users\Maximo\Documents\Visual Studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ConsultarGanancias.resources
+C:\Users\Maximo\Documents\Visual Studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Menu.resources
+C:\Users\Maximo\Documents\Visual Studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.AdministrarEmpleados.resources
+C:\Users\Maximo\Documents\Visual Studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaProductos.resources
+C:\Users\Maximo\Documents\Visual Studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ModificarProductos.resources
+C:\Users\Maximo\Documents\Visual Studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaEmpleados.resources
+C:\Users\Maximo\Documents\Visual Studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ConsultarProductos.resources
+C:\Users\Maximo\Documents\Visual Studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.AdministrarProvedores.resources
+C:\Users\Maximo\Documents\Visual Studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ConsultarVentas.resources
+C:\Users\Maximo\Documents\Visual Studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaVentas.resources
+C:\Users\Maximo\Documents\Visual Studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.RegistrarVentas.resources
+C:\Users\Maximo\Documents\Visual Studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaVentasRegistradas.resources
+C:\Users\Maximo\Documents\Visual Studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Boleta.resources
+C:\Users\Maximo\Documents\Visual Studio 2013\Projects\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Factura2.resources
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.exe.config
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.exe
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.xml
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.pdb
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.exe
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.pdb
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.xml
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.AdministrarClientes.resources
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.AdministrarEmpleados.resources
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaEmpleados.resources
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ConsultarGanancias.resources
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Boleta.resources
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Factura2.resources
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.login.resources
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Menu.resources
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Resources.resources
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaProductos.resources
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ModificarProductos.resources
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.AdministrarProvedores.resources
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ConsultarVentas.resources
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaVentas.resources
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaVentasRegistradas.resources
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.RegistrarVentas.resources
+C:\Users\Maximo\Desktop\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.vbproj.GenerateResource.Cache
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.exe.config
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.exe
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.xml
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.pdb
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.exe
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.pdb
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.xml
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.AdministrarClientes.resources
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.AdministrarEmpleados.resources
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaEmpleados.resources
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ConsultarGanancias.resources
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Boleta.resources
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Factura2.resources
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.login.resources
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Resources.resources
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaProductos.resources
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ModificarProductos.resources
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.AdministrarProvedores.resources
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ConsultarVentas.resources
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaVentasRegistradas.resources
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.RegistrarVentas.resources
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.vbproj.GenerateResource.Cache
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Menu1.resources
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Barra_cargando.resources
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.vbprojAssemblyReference.cache
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.vbproj.CopyComplete
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Saludo.resources
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.panelprincipal2.resources
+C:\Users\Maximo\Desktop\PROYECT\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaVentasFiltro.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.exe.config
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.exe
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.xml
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.pdb
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.exe
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.pdb
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.xml
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.AdministrarClientes.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.AdministrarEmpleados.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaEmpleados.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ConsultarGanancias.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Boleta.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Factura2.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Barra_cargando.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.login.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Menu1.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.panelprincipal2.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Saludo.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Resources.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaProductos.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ModificarProductos.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.AdministrarProvedores.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ConsultarVentas.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaVentasFiltro.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaVentasRegistradas.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.RegistrarVentas.resources
+C:\Users\Administrador\Downloads\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.vbproj.GenerateResource.Cache
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.exe.config
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.exe
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.pdb
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\bin\Debug\SistemaVentas2.xml
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.vbprojAssemblyReference.cache
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.AdministrarClientes.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.AdministrarEmpleados.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaEmpleados.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ConsultarGanancias.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Boleta.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Factura2.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Barra_cargando.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.login.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Menu1.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.panelprincipal2.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Saludo.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.Resources.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaProductos.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ModificarProductos.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.AdministrarProvedores.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ConsultarVentas.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaVentasFiltro.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.ListaVentasRegistradas.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.RegistrarVentas.resources
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.vbproj.GenerateResource.cache
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.vbproj.CopyComplete
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.exe
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.xml
+E:\3 CICLO\Sistema_Ventas_Avicola-master\SistemaVentas2\SistemaVentas2\obj\Debug\SistemaVentas2.pdb
